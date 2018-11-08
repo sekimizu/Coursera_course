@@ -1,0 +1,119 @@
+[
+    {
+        "outputFile": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_DangerousApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_DangerousApp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_DangerousApp\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 49,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_DangerousApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 76,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_DangerousApp\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 84,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_DangerousApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 84,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 381,
+                    "endColumn": 79,
+                    "endOffset": 456
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_DangerousApp\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 79,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 461,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 539
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_DangerousApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 544,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_DangerousApp\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

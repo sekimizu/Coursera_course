@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Wed May 10 14:50:28 CST 2017
+2.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e7026cbf688485a022b0d28386e620894960106c\\classes.dex
+5.set=DEX
+3.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e9ecf027627692edd0d432518b5bb5af54246691\\classes.dex
+7.set=DEX
+count=9
+0.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e7026cbf688485a022b0d28386e620894960106c
+8.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\bubble_pop.wav
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\b64.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e9ecf027627692edd0d432518b5bb5af54246691
+2.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

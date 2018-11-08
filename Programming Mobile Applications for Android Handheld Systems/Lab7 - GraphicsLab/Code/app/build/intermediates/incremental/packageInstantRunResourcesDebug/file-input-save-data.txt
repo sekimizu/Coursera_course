@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Wed May 10 14:50:25 CST 2017
+2.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\bubble_pop.wav
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+5.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\b64.png
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

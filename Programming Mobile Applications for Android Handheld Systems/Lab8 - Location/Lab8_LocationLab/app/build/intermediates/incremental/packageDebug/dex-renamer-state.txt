@@ -1,0 +1,7 @@
+#Fri May 12 17:39:50 CST 2017
+base.0=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0aa7e5ae7965a58da7d86f32551efac3bb1b852a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_302a7fa12a153abd160f2799fd265d689afc7015\\classes.dex
+base.1=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_302a7fa12a153abd160f2799fd265d689afc7015
+file.0=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0aa7e5ae7965a58da7d86f32551efac3bb1b852a\\classes.dex

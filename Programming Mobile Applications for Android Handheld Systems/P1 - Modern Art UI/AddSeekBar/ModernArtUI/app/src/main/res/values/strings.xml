@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+    <string name="action_information">More information</string>
+    <string name="dialog_info_title">Coursera Android course</string>
+    <string name="dialog_title">Change color block setting</string>
+    <string name="hint_color">Color</string>
+</resources>

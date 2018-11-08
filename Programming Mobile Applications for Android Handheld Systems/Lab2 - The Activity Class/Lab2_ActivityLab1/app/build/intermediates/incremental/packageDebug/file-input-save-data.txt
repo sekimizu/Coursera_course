@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Thu Apr 06 16:48:44 CST 2017
+2.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9d10c4fd4d6dde5536ce94cf76dbb1e7ee0656fd\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8d5491e4755a0ad328c7bfb0baa238f615d8ef08
+count=7
+0.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9d10c4fd4d6dde5536ce94cf76dbb1e7ee0656fd
+1.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_one.xml
+6.set=DEX
+0.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_two.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab2_ActivityLab1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8d5491e4755a0ad328c7bfb0baa238f615d8ef08\\classes.dex
+0.set=ANDROID_RESOURCE

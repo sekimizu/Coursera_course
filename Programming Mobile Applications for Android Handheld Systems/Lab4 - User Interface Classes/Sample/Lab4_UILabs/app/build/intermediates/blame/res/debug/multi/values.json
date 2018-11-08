@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 70,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 43,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 170,
+                    "endColumn": 48,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 48,
+                        "endOffset": 980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 58,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 58,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 58,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endColumn": 58,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 337,
+                    "endColumn": 45,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 45,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 45,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 45,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 58,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 58,
+                        "endOffset": 1135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 488,
+                    "endColumn": 57,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 69,
+                        "endOffset": 757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 55,
+                    "endOffset": 597
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 762,
+                        "endColumn": 55,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 602,
+                    "endColumn": 52,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 412,
+                        "endColumn": 52,
+                        "endOffset": 460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 53,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 575,
+                        "endColumn": 53,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 51,
+                    "endOffset": 756
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 465,
+                        "endColumn": 51,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 761,
+                    "endColumn": 57,
+                    "endOffset": 814
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 57,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 819,
+                    "endColumn": 53,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 145,
+                        "endColumn": 53,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 46,
+                    "endOffset": 915
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 985,
+                        "endColumn": 46,
+                        "endOffset": 1027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 920,
+                    "endColumn": 48,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 48,
+                        "endOffset": 407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 48,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1032,
+                        "endColumn": 48,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 62,
+                    "endOffset": 1076
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 62,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1081,
+                    "endColumn": 46,
+                    "endOffset": 1123
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab4_UILabs\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 46,
+                        "endOffset": 358
+                    }
+                }
+            }
+        ]
+    }
+]

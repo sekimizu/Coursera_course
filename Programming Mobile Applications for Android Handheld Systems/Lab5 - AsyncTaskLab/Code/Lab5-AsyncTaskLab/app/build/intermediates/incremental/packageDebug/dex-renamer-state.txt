@@ -1,0 +1,7 @@
+#Thu Apr 27 11:20:55 CST 2017
+base.0=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_874ed7d6e9e7c0b4d18bd6ebe5e16f27ca446ed9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_66908244ec147baa677ffe77d042829605ad8b65\\classes.dex
+base.1=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_66908244ec147baa677ffe77d042829605ad8b65
+file.0=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_874ed7d6e9e7c0b4d18bd6ebe5e16f27ca446ed9\\classes.dex

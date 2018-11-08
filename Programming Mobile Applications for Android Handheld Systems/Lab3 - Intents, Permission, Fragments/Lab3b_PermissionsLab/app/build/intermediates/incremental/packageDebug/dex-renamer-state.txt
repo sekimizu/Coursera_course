@@ -1,0 +1,4 @@
+#Mon Apr 10 11:26:37 CST 2017
+base.0=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_PermissionsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3b_PermissionsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

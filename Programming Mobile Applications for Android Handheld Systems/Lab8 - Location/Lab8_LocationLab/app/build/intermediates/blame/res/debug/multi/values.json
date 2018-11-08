@@ -1,0 +1,277 @@
+[
+    {
+        "outputFile": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 48,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 580,
+                        "endColumn": 48,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 41,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 41,
+                        "endOffset": 196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 90,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 90,
+                        "endOffset": 715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 61,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 720,
+                        "endColumn": 61,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 53,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 53,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 72,
+                    "endOffset": 470
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 72,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 475,
+                    "endColumn": 82,
+                    "endOffset": 553
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 359,
+                        "endColumn": 82,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 558,
+                    "endColumn": 61,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 61,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 47,
+                    "endOffset": 663
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 47,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 668,
+                    "endColumn": 47,
+                    "endOffset": 711
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 47,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 716,
+                    "endColumn": 64,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 64,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1227
+                },
+                "from": {
+                    "file": "C:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

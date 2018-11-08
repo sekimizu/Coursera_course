@@ -1,0 +1,7 @@
+#Wed May 10 14:50:28 CST 2017
+base.0=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e9ecf027627692edd0d432518b5bb5af54246691
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e7026cbf688485a022b0d28386e620894960106c\\classes.dex
+base.1=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_e7026cbf688485a022b0d28386e620894960106c
+file.0=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab7_GraphicsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_e9ecf027627692edd0d432518b5bb5af54246691\\classes.dex

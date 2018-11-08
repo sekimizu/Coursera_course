@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Mon Apr 10 14:41:35 CST 2017
+2.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main_activity.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\taylorswift.txt
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\feed.xml
+5.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\ladygaga.txt
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-large-v4\\main_activity.xml
+1.set=DEX
+7.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\raw\\rebeccablack.txt
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+9.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab3c_FragmentsLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

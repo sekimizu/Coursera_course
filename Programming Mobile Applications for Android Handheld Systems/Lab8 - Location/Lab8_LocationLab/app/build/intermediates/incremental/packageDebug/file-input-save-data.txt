@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri May 12 17:39:50 CST 2017
+2.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-nodpi-v4\\stub.jpg
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0aa7e5ae7965a58da7d86f32551efac3bb1b852a
+7.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\place_badge_view.xml
+5.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_302a7fa12a153abd160f2799fd265d689afc7015\\classes.dex
+4.set=DEX
+6.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_302a7fa12a153abd160f2799fd265d689afc7015
+3.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\footer_view.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\Kenny_Pan\\AndroidStudioProjects\\Lab8_LocationLab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0aa7e5ae7965a58da7d86f32551efac3bb1b852a\\classes.dex
+8.set=DEX
+0.set=ANDROID_RESOURCE

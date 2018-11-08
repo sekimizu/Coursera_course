@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/dialog_frame">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:textColor="#FFFFFF"
+        android:text="RED (0-255)" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/red_col"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/input_red"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+    </android.support.design.widget.TextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:textColor="#FFFFFF"
+        android:text="GREEN (0-255)" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/green_col"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/input_green"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+    </android.support.design.widget.TextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:textColor="#FFFFFF"
+        android:text="BLUE (0-255)" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/blue_col"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/input_blue"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <!--
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:textColor="#FFFFFF"
+        android:text="HEIGHT" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/height_col"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/input_height"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+    </android.support.design.widget.TextInputLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:paddingTop="10dp"
+        android:paddingLeft="10dp"
+        android:textColor="#FFFFFF"
+        android:text="WIDTH" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/width_col"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.AppCompatEditText
+            android:id="@+id/input_width"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+    </android.support.design.widget.TextInputLayout>
+-->
+    <CheckBox
+        android:id="@+id/checkbox_tofront"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Move to front" />
+
+</LinearLayout>
